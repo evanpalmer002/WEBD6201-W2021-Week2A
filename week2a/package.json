@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.2",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.0.0-beta1",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "name": "week2a",
+  "version": "1.0",
+  "main": "index.js",
+  "repository": "https://github.com/evanpalmer002/WEBD6201-W2021-Week2A.git",
+  "author": "Evan",
+  "license": "MIT",
+  "description": "ICE"
+}
